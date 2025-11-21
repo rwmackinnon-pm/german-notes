@@ -2,4 +2,5 @@
 
 # German Notes
 
-Somewhere to keep some thoughts and tips on learning German.
+Somewhere to keep some thoughts and examples for learning German.
+Including, quirky sentences (Satz), grammar rules, and vocabulary.
