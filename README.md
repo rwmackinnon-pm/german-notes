@@ -3,4 +3,4 @@
 # German Notes
 
 Somewhere to keep some thoughts and examples for learning German.
-Including, quirky sentences (Satz), grammar rules, and vocabulary.
+Including, quirky sentences (Sätze), grammar rules, and vocabulary.
