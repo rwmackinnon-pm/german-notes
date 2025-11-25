@@ -12,7 +12,7 @@ Verkunft = place of origin
 ## 13/11/2025
 belten = to bark (r)  
 Familienstand = familiy status (verheirartet (married), geschieden (divorced), Single)  
-Truthahn = Turkey (the animal)  
+_Trut_hahn = Turkey (the animal)  
 ___ Stief = step (familienmitglieder)  
    die Stiefgeschwister = step-sibings  
    der Siefbruder  
