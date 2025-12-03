@@ -1,4 +1,5 @@
 <!--  todo: make this image smaller -->
+<!--  this is to test conflicts -->
 ![German flag](images/flag-de.svg)
 
 # German Notes  
