@@ -4,7 +4,7 @@
 das Gegenteil = opposite  
 günstig = cheap = billig  
 der Erdnussbutter = peanut butter  
-___ Erdnuss = peanut  
+die Erdnuss = peanut  
 auflöfsungen = resolutions (don't know why this came up.)  
 Lieblingsessen = favorite food  
 Verkunft = place of origin  
@@ -13,11 +13,20 @@ Verkunft = place of origin
 belten = to bark (r)  
 Familienstand = familiy status (verheirartet (married), geschieden (divorced), Single)  
 *Trut*hahn = Turkey (the animal)  
-___ Stief = step (familienmitglieder)  
+Stief = step (familienmitglieder)  
    die Stiefgeschwister = step-sibings  
    der Siefbruder  
    die Stiefschwester  
 
 ## 06/11/2025
 kniffelig = tricky  
-___ Sternzeichen = start sign (horoscope)  
+das Sternzeichen = star sign (horoscope)  
+
+## 30/10/2025
+das Brettspiel = the boardgame
+Vögel beobachten = birdwatching
+sauerteig = sourdough
+Fechten = fencing (aktivität)
+gewichte heben = lifing weights
+### You Tube Suggestion
+   "Deutsch mit Kartoffel"
