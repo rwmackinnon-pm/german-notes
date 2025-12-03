@@ -21,3 +21,5 @@ ___ Stief = step (familienmitglieder)
 ## 06/11/2025
 kniffelig = tricky  
 ___ Sternzeichen = start sign (horoscope)  
+
+## 06/11/2025
